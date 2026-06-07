@@ -10,7 +10,8 @@ th {
     padding: 10px;
 }
 td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    background-color: #fff;
+    border: 3px double #666;
+    padding: 15px;
+    background-color: #e0e0e0;
+    font-style: italic;
 }
