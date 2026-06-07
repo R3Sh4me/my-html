@@ -15,3 +15,11 @@ td {
     background-color: #e0e0e0;
     font-style: italic;
 }
+#grades-link {
+    text-decoration: none;
+    color: blue;
+}
+
+#grades-link:hover {
+    color: darkred;
+}
