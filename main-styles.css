@@ -4,3 +4,8 @@ h1 {
     text-align: center;
     text-decoration: underline;
 }
+th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    padding: 10px;
+}
