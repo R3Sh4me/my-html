@@ -15,6 +15,14 @@ td {
     background-color: #e0e0e0;
     font-style: italic;
 }
+footer {
+    background-color: #f0f0f0;
+    padding: 15px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
+
 #grades-link {
     text-decoration: none;
     color: blue;
